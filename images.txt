@@ -1,1 +1,1 @@
-homeassistant/amd64-addon-mosquitto:6.4.1
+nginx：alpine
