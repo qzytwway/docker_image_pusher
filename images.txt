@@ -1,3 +1,1 @@
-victoriametrics/vminsert:cluster-stable
-victoriametrics/vmselect:cluster-stable
-victoriametrics/vmstorage:cluster-stable
+victoriametrics/vmagent:stable
