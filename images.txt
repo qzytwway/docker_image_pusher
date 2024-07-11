@@ -1,1 +1,6 @@
-quay.io/samblade/virtvnc:v0.1
+bitnami/postgresql:15.2.0
+bitnami/zookeeper:3.7.1
+apache/dolphinscheduler-api
+apache/dolphinscheduler-alert-server
+apache/dolphinscheduler-master
+apache/dolphinscheduler-worker
