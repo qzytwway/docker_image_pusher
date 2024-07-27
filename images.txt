@@ -1,1 +1,2 @@
-neosmemo/memos:stable
+maven:3.8.5-ibmjava-alpine
+node:lts-alpine3.20
