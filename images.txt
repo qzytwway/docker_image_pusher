@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.32.10
+kindest/node:v1.30.2
