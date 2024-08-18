@@ -1,2 +1,2 @@
-calico/kube-controllers:v3.27.4
-
+calico/cni:v3.27.4
+calico/node:v3.27.4
