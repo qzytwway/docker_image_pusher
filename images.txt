@@ -1,2 +1,2 @@
-calico/pod2daemon-flexvol:v3.27.4
-calico/typha:v3.27.4
+calico/kube-controllers:v3.27.4
+
