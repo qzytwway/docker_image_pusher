@@ -1,2 +1,2 @@
-calico/cni:v3.27.4
-calico/node:v3.27.4
+kubernetesui/dashboard:v2.0.0
+kubernetesui/metrics-scraper:v1.0.4
