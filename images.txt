@@ -1,1 +1,1 @@
-timonwong/prometheus-webhook-dingtalk:main
+eipwork/kuboard:v3
