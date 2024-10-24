@@ -1,1 +1,1 @@
-cilium/echoserver
+hashicorp/http-echo
