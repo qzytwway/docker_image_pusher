@@ -1,1 +1,1 @@
-kennethreitz/httpbin
+gcr.io/google-containers/echoserver
