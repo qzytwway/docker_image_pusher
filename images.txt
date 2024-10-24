@@ -1,1 +1,1 @@
-hashicorp/http-echo
+nginxdemos/hello
