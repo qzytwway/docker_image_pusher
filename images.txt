@@ -1,1 +1,1 @@
-maven:3.8.5-openjdk-8
+n8nio/n8n:1.73.1
