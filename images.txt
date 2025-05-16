@@ -1,1 +1,1 @@
-mysql:8.4.4
+kindest/node:v1.33.0
