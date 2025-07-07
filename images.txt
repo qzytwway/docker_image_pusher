@@ -1,1 +1,1 @@
-jeessy/ddns-go:v6.11.0
+haproxy:2.9.15-alpine3.21
