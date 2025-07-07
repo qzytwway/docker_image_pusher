@@ -1,1 +1,1 @@
-haproxy:2.9.15-alpine3.21
+haproxy:3.2.2
