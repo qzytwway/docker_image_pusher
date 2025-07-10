@@ -1,1 +1,1 @@
-ollama/ollama:0.9.5
+dockurr/macos:2.14
