@@ -1,1 +1,7 @@
-fluent/fluent-bit:4.0.3
+kubesphere/kube-scheduler:v1.23.17
+kubesphere/kube-proxy:v1.23.17
+kubesphere/kube-apiserver:v1.23.17
+kubesphere/kube-controller-manager:v1.23.17
+kubesphere/pause:3.6
+kubesphere/etcd:3.5.6-0
+kubesphere/coredns:v1.8.6
