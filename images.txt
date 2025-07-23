@@ -1,7 +1,4 @@
-kubesphere/kube-scheduler:v1.23.17
-kubesphere/kube-proxy:v1.23.17
-kubesphere/kube-apiserver:v1.23.17
-kubesphere/kube-controller-manager:v1.23.17
-kubesphere/pause:3.6
-kubesphere/etcd:3.5.6-0
-kubesphere/coredns:v1.8.6
+docker.io/kubernetesui/dashboard-api:1.13.0
+docker.io/kubernetesui/dashboard-web:1.7.0
+docker.io/kubernetesui/dashboard-auth:1.3.0
+docker.io/kubernetesui/dashboard-metrics-scraper:1.2.2
