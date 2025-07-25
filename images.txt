@@ -1,2 +1,10 @@
-opensearchproject/opensearch:2.15.0
-graylog/graylog:6.3
+langgenius/dify-api:1.7.0
+langgenius/dify-api:1.7.0
+langgenius/dify-api:1.7.0
+langgenius/dify-web:1.7.0
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.2.0-local
+ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
