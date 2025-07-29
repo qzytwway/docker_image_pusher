@@ -1,1 +1,1 @@
-n8nio/n8n:stable
+--platform=linux/arm64 n8nio/n8n:stable
