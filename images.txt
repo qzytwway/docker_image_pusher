@@ -1,1 +1,1 @@
---platform=linux/arm64 n8nio/n8n:stable
+n8nio/n8n:1.105.0-arm64
