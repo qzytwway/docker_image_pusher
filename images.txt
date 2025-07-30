@@ -1,1 +1,1 @@
-binwiederhier/ntfy:v2.13
+--platform=linux/arm64 n8nio/n8n:stable
