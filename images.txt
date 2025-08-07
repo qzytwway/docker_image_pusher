@@ -1,1 +1,1 @@
-elastic/filebeat:8.19.0
+vllm/vllm-openai:v0.9.2
