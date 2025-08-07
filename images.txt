@@ -1,1 +1,1 @@
-graylog/graylog-datanode:6.3
+graylog/graylog:6.3
