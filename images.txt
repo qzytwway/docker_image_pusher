@@ -1,1 +1,1 @@
-graylog/graylog:6.3
+williamyeh/wrk:4.0.2
