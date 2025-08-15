@@ -1,1 +1,2 @@
-williamyeh/wrk:4.0.2
+langgenius/dify-api:1.7.2
+langgenius/dify-web:1.7.2
