@@ -1,1 +1,1 @@
-mcp/firecrawl:latest
+ollama/ollama:rocm
