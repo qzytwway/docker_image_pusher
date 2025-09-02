@@ -1,1 +1,3 @@
-rockchin/langbot:latest
+wechatpadpro/wechatpadpro:latest
+mysql:8.0
+redis:6
