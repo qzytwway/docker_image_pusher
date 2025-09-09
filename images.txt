@@ -1,1 +1,1 @@
-semitechnologies/weaviate:stable-v1.32-6e6be07
+vdsm/virtual-dsm:7.36
