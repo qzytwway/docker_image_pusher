@@ -1,1 +1,1 @@
-vdsm/virtual-dsm:7.36
+centos/devtoolset-7-toolchain-centos7:7
