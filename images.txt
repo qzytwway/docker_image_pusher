@@ -1,1 +1,1 @@
-centos/devtoolset-7-toolchain-centos7:7
+kindest/node:v1.33.4
