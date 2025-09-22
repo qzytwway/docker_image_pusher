@@ -1,1 +1,1 @@
-kindest/node:v1.33.4
+ghcr.io/vllm-project/guidellm:latest
