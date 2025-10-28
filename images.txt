@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.11.0
+quay.io/containerdisks/centos:7-2009
