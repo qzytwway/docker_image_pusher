@@ -1,1 +1,1 @@
-vllm/vllm-openai:nightly-x86_64
+n8nio/n8n:stable
