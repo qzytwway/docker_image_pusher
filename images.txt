@@ -1,1 +1,1 @@
-docker.gitea.com/gitea:1.25.1
+ghcr.io/berriai/litellm:main-stable
