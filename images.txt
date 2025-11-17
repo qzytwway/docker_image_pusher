@@ -1,1 +1,1 @@
-ghcr.io/berriai/litellm:main-stable
+cr.fluentbit.io/fluent/fluent-bit:4.1.1
