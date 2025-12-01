@@ -1,1 +1,1 @@
-cr.fluentbit.io/fluent/fluent-bit:4.1.1
+nvcr.io/nvidia/pytorch:25.09-py3
