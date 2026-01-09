@@ -1,1 +1,1 @@
-quay.io/calico/kube-controllers:v3.31.2
+quay.io/calico/csi:v3.31.2
