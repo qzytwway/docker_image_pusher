@@ -1,1 +1,1 @@
-quay.io/calico/csi:v3.31.2
+quay.io/calico/node-driver-registrar:v3.31.2
