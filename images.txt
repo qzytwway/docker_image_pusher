@@ -1,1 +1,1 @@
-quay.io/calico/node-driver-registrar:v3.31.2
+cr.fluentbit.io/fluent/fluent-bit:4.2.2
