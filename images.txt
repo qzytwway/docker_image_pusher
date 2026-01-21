@@ -1,14 +1,2 @@
-busybox:latest
-langgenius/dify-api:1.11.4
-langgenius/dify-api:1.11.4
-langgenius/dify-api:1.11.4
-langgenius/dify-web:1.11.4
-postgres:15-alpine
-mysql:8.0
-redis:6-alpine
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.5.2-local
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
-semitechnologies/weaviate:1.27.0
+registry.k8s.io/ingress-nginx/controller:v1.14.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.5
