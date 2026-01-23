@@ -1,1 +1,2 @@
-mirrorgooglecontainers/echoserver:1.10
+docker.io/envoyproxy/ratelimit:99d85510
+envoyproxy/gateway:v1.6.2
