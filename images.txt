@@ -1,2 +1,1 @@
-docker.io/envoyproxy/ratelimit:99d85510
-envoyproxy/gateway:v1.6.2
+ghcr.io/nginx/nginx-gateway-fabric:2.4.0
