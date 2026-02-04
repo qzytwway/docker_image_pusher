@@ -1,1 +1,1 @@
-ghcr.io/nginx/nginx-gateway-fabric:2.4.0
+ghcr.io/nginx/nginx-gateway-fabric/nginx:2.4.0
