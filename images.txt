@@ -1,1 +1,2 @@
-ghcr.io/nginx/nginx-gateway-fabric/nginx:2.4.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.7
+registry.k8s.io/ingress-nginx/controller:v1.14.3
