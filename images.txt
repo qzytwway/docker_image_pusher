@@ -1,2 +1,2 @@
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.7
-registry.k8s.io/ingress-nginx/controller:v1.14.3
+vllm/vllm-openai:v0.22.0-cu129-ubuntu2404
+vllm/vllm-openai:v0.22.0-ubuntu2404
