@@ -1,1 +1,1 @@
-qwenllm/qwen3-omni:3-cu124
+vllm/vllm-openai:v0.22.0-x86_64-cu129-ubuntu2404
