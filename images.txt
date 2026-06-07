@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.22.0-x86_64-cu129-ubuntu2404
+whyour/qinglong:2.20.2-debian
