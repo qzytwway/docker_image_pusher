@@ -1,1 +1,2 @@
 vllm/vllm-openai:v0.22.1-cu129-ubuntu2404
+vllm/vllm-openai:v0.22.1-ubuntu2404
