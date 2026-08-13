@@ -1,7 +1,10 @@
-registry.k8s.io/kube-apiserver:v1.35.7
-registry.k8s.io/kube-controller-manager:v1.35.7
-registry.k8s.io/kube-scheduler:v1.35.7
-registry.k8s.io/kube-proxy:v1.35.7
-registry.k8s.io/coredns/coredns:v1.13.1
-registry.k8s.io/pause:3.10.1
-registry.k8s.io/etcd:3.6.6-0
+docker.io/calico/node:v3.31.6
+docker.io/calico/cni:v3.31.6
+docker.io/calico/kube-controllers:v3.31.6
+docker.io/calico/typha:v3.31.6
+docker.io/calico/pod2daemon-flexvol:v3.31.6
+docker.io/calico/apiserver:v3.31.6
+docker.io/calico/csi:v3.31.6
+docker.io/calico/node-driver-registrar:v3.31.6
+docker.io/calico/key-cert-provisioner:v3.31.6
+quay.io/tigera/operator:v1.40.13
